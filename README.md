@@ -5,7 +5,7 @@ Wildfire vulnerability is usually assessed through biophysical factors, but how 
 <html>
 
 <h2>Background on Social Factors</h2>
-<img src=FireMidterm_AC.png>
+<img src="FireMidterm_AC.png">
 
 <h2>Map of Wildfire Hazard, Social Adaptive Capacity, and Overall Vulnerability to Wildfire</h2>
 
